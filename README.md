@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larsencs
-- 👀 I’m interested in javascript, html, css, java, python
+- 👀 I’m interested in coding. All the coding!
 - 🌱 I’m currently learning javascript, html, and css
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
